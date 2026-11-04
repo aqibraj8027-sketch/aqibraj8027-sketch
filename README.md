@@ -1,16 +1,24 @@
+# 💫 About Me:
+Flutter Developer | Mobile App Engineer | Problem Solver<br><br>I'm a dedicated Flutter Developer passionate about transforming ideas into elegant, scalable, and high performance mobile applications.<br><br>With 2.5 years of hands on experience in mobile app development, I specialize in building cross platform applications using Flutter and Dart, creating intuitive user interfaces, integrating RESTful APIs, and developing seamless application experiences.<br><br>🚀 What I Bring to the Table<br>- 📱 Cross-Platform Mobile App Development (Flutter & Dart)<br>- 🎨 Modern UI/UX Design & Responsive Interfaces<br>- 🔗 REST API Integration & Backend Communication<br>- 🔐 Authentication & Secure Token Management<br>- 🔥 Firebase Integration<br>- ⚙️ State Management & Application Architecture<br>- 🧪 Debugging, Testing & Performance Optimization<br>- 🌿 Git, GitHub & Collaborative Development<br><br>💻 Technologies & Tools<br>       1. Languages: Dart, Python (Learning)  <br>       2. Frameworks: Flutter  <br>       3. Backend & APIs: REST APIs, Firebase  <br>       4. Tools: Android Studio, VS Code, Git, GitHub, Postman<br><br>🎯 My Mission<br>I believe great applications are built by combining clean code, thoughtful design, and meaningful user experiences. I'm continuously exploring new technologies, improving my development skills, and working on solutions that solve real world problems.<br><br>🤝 Let's Connect!<br>I'm always open to collaborating on exciting projects, sharing knowledge, and exploring new opportunities in mobile application development.<br><br>Build. Learn. Innovate. Repeat. 🚀
 
 
-<!--
-**aqibraj8027-sketch/aqibraj8027-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-aqib-4a153a278) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/33273704/muhammad-aqib) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Muhammad Aqib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aqibraj8027@gmail.com) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aqibraj8027-sketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aqibraj8027-sketch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aqibraj8027-sketch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aqibraj8027-sketch&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aqibraj8027-sketch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=aqibraj8027-sketch&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
