@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **aqibraj8027-sketch/aqibraj8027-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
